@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
-body {
+#register {
 font-family: 'Hachi Maru Pop', cursive, serif;
 }
+
+
+@media (max-width: 768px){
+    .footer ul h4 {
+        margin-left: -40px;
+    }
+}
+    
